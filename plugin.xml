@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="parse-angular-twilio" version="0.1.0">
+        <name>parseTwilio</name>
+        <description>Plugin provides cordova/phonegap app method authorization by phone number. Parse.com is a required backend service.</description>
+        <license>Apache 2.0</license>
+        <keywords>cordova,parse,anyphone,login</keywords>
+        <js-module src="www/parseTwilio.js" name="parseTwilio">
+            <clobbers target="parseTwilio" />
+        </js-module>
+    </plugin>

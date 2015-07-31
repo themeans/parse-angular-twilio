@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "name": "parse-angular-twilio",
+    "cordova_name": "Anyphone",
+    "description": "Plugin provides cordova/phonegap app method authorization by phone number. Parse.com is a required backend service.",
+    "license": "Apache 2.0",
+    "keywords": [
+        "cordova",
+        "parse",
+        "login"
+    ],
+    "platforms": [],
+    "engines": []
+}
